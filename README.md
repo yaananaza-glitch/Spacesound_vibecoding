@@ -2,9 +2,6 @@
 
 ![SpaceSound_example](https://github.com/artantme/spacesound_vibecoding/blob/main/Example.png?raw=true)
 
-Шаблон:
-https://codepen.io/sparlos/pen/QRwVjp
-
 # Задание:
 
 ## Сделайте генератор космической музыки ко Дню космонавтики:
